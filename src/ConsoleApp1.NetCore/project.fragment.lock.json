@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "Contoso.Languages/1.0.0": {
+      "type": "project",
+      "framework": ".NETStandard,Version=v1.4",
+      "compile": {
+        "bin/Debug/Contoso.Languages.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/Contoso.Languages.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Contoso.Languages.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
